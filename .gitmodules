@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:eugerne/eugerne.github.io.git
+	branch = main
+[submodule "publics"]
+	path = publics
+	url = git@github.com:eugerne/eugerne.github.io.git
+	branch = main
